@@ -1,0 +1,18 @@
+{
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "jest.testExplorer": {
+    "enabled": true
+  },
+  "jest.autoRun": {
+    "watch": false,
+    "onSave": "test-file"
+  },
+  "search.exclude": {
+    "**/.yarn": true,
+    "**/.pnp.*": true
+  },
+  "typescript.enablePromptUseWorkspaceTsdk": true
+}
